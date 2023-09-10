@@ -1,7 +1,5 @@
-
 # Flutter Nike Shop App 🛍️
-![first](https://github.com/blaszkaaa/portfolio_app4/assets/58654924/29a81e54-4e68-4086-914c-4c102245a7d3)
-
+<img src="https://github.com/blaszkaaa/portfolio_app4/assets/58654924/29a81e54-4e68-4086-914c-4c102245a7d3" width="300">
 
 Witaj w Flutter Nike Shop App - twoim idealnym miejscu do zakupów butów i odzieży sportowej marki Nike! To jeszcze niepełna aplikacja, ale już teraz możesz poczuć atmosferę zakupów online.
 
@@ -17,9 +15,9 @@ Witaj w Flutter Nike Shop App - twoim idealnym miejscu do zakupów butów i odzi
 
 ## Ekran Główny
 
-To jest tylko początek! Ekran główny został już stworzony, pozwalając Ci przeglądać produkty. Ale to dopiero początek przygody zakupowej w naszym sklepie!![third](https://github.com/blaszkaaa/portfolio_app4/assets/58654924/c19cec64-e34a-42c8-bfe7-8372e5aa59c7)
-![second](https://github.com/blaszkaaa/portfolio_app4/assets/58654924/2bc0c16d-4d39-4f39-b0da-41b6803051d4)
-
+To jest tylko początek! Ekran główny został już stworzony, pozwalając Ci przeglądać produkty. Ale to dopiero początek przygody zakupowej w naszym sklepie!!
+<img src="https://github.com/blaszkaaa/portfolio_app4/assets/58654924/c19cec64-e34a-42c8-bfe7-8372e5aa59c7" width="300">
+<img src="https://github.com/blaszkaaa/portfolio_app4/assets/58654924/2bc0c16d-4d39-4f39-b0da-41b6803051d4" width="300">
 
 ## Uruchomienie projektu
 
@@ -55,7 +53,7 @@ Projekt Flutter Nike Shop App został stworzony przez blaszkaaa. Kontakt do auto
 
 ## Licencja
 
-Ten projekt jest dostępny na licencji [licencja]. Szczegóły znajdziesz w pliku [LICENSE](LICENSE).
+Ten projekt jest dostępny na licencji [licencja]. Szczegóły znajdziesz w pliku LICENSE.
 
 ## Podziękowania
 
