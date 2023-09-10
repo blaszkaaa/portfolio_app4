@@ -1,7 +1,7 @@
 
 # Flutter Nike Shop App 🛍️
+![first](https://github.com/blaszkaaa/portfolio_app4/assets/58654924/29a81e54-4e68-4086-914c-4c102245a7d3)
 
-![nike_shop_app_demo](link_do_zrzutu_ekranu.png)
 
 Witaj w Flutter Nike Shop App - twoim idealnym miejscu do zakupów butów i odzieży sportowej marki Nike! To jeszcze niepełna aplikacja, ale już teraz możesz poczuć atmosferę zakupów online.
 
@@ -17,9 +17,9 @@ Witaj w Flutter Nike Shop App - twoim idealnym miejscu do zakupów butów i odzi
 
 ## Ekran Główny
 
-To jest tylko początek! Ekran główny został już stworzony, pozwalając Ci przeglądać produkty. Ale to dopiero początek przygody zakupowej w naszym sklepie!
+To jest tylko początek! Ekran główny został już stworzony, pozwalając Ci przeglądać produkty. Ale to dopiero początek przygody zakupowej w naszym sklepie!![third](https://github.com/blaszkaaa/portfolio_app4/assets/58654924/c19cec64-e34a-42c8-bfe7-8372e5aa59c7)
+![second](https://github.com/blaszkaaa/portfolio_app4/assets/58654924/2bc0c16d-4d39-4f39-b0da-41b6803051d4)
 
-![ekran_glowny](link_do_zrzutu_ekranu_ekranu_glownego.png)
 
 ## Uruchomienie projektu
 
